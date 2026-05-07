@@ -77,7 +77,7 @@ O sistema realiza análise estatística para identificar consumos acima do compo
 EnergyAnalytics-Dashboard/
 │
 ├── dados/
-│   └── consumo_energia_1000_linhas.csv
+│   └── consumo_energia.csv
 │
 ├── graficos/
 │   └── grafico_consumo_setor.png
